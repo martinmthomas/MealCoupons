@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\MealCoupons\MealCoupons\bin\Debug\MealCoupons.exe.config
+C:\Users\marti\source\repos\MealCoupons\MealCoupons\bin\Debug\MealCoupons.exe
+C:\Users\marti\source\repos\MealCoupons\MealCoupons\bin\Debug\MealCoupons.pdb
+C:\Users\marti\source\repos\MealCoupons\MealCoupons\obj\Debug\MealCoupons.csprojResolveAssemblyReference.cache
+C:\Users\marti\source\repos\MealCoupons\MealCoupons\obj\Debug\MealCoupons.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\MealCoupons\MealCoupons\obj\Debug\MealCoupons.exe
+C:\Users\marti\source\repos\MealCoupons\MealCoupons\obj\Debug\MealCoupons.pdb
