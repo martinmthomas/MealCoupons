@@ -58,7 +58,7 @@ namespace MealCoupons
             var couponValues = new List<int> { 3, 5, 7, 1, 3, 2 };
             var mealValue = 8;
             var count = PairsCount(couponValues, mealValue);
-            Console.WriteLine($"Total number of coupon pairs that could be used to by the meal worth {mealValue} is {count}");
+            Console.WriteLine($"Total number of coupon pairs that could be used to buy the meal worth {mealValue} is {count}");
 
             Console.ReadKey();
         }
